@@ -1,4 +1,4 @@
-###Customer Churn Prediction
+### Customer Churn Prediction
 Project Overview
 This project focuses on predicting customer churn for a telecommunications company using machine learning. Customer churn refers to when customers discontinue their services with a company, and predicting this can help businesses retain customers by implementing targeted strategies. The project involves analyzing customer data, performing data preprocessing, and building a predictive model to identify customers who are likely to churn.
 
